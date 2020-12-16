@@ -3,4 +3,5 @@ This is the 2nd line
 Clone1 added last line
 Clone2 added 2nd line
 This is the 2nd line
+Working on same line by clone1
 Working on same line by clone2
