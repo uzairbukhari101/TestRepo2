@@ -6,4 +6,5 @@ Clone1 added last line
 =======
 Clone2 added 2nd line
 This is the 2nd line
->>>>>>> 4c9263d706ee6bc8c191ff1803d8dd98579708ce
+>>>>>>> 4c9263d706ee6bc8c191ff1803d8dd98579708ce+
+Working on same line by clone1
