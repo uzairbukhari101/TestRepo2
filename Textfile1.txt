@@ -1,3 +1,5 @@
 This is clone1
 
 New line in clone1
+
+This is 3rd line
